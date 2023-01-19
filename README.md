@@ -9,5 +9,7 @@ Recently, I have been focusing on **Azure**, **AI**, and the **ChatGPT** tool.
 
 - 👨‍💻 ([My career as IT professional (LinkedIn)](https://www.linkedin.com/in/josefpolach/)
 - 🚧 [My career as Sport professional](https://worldathletics.org/athletes/czech-republic/josef-polach-14329439)
+- <a href="http://www.example.com" target="_blank">example</a>
+
 
 I am excited to share my projects and collaborate with others on GitHub.
