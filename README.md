@@ -7,9 +7,8 @@ I am an avid fan of **Apple** and enjoy working with applications built for Appl
 
 Recently, I have been focusing on **Azure**, **AI**, and the **ChatGPT** tool. 
 
-- 👨‍💻 ([My career as IT professional (LinkedIn)](https://www.linkedin.com/in/josefpolach/)
-- 🚧 [My career as Sport professional](https://worldathletics.org/athletes/czech-republic/josef-polach-14329439)
-- <a href="http://www.example.com" target="_blank">example</a>
+- <a href="[http://www.example.com](https://www.linkedin.com/in/josefpolach/)" target="_blank">👨‍💻 My career as IT professional (LinkedIn)</a>
+- <a href="[http://www.example.com]([https://www.linkedin.com/in/josefpolach/](https://worldathletics.org/athletes/czech-republic/josef-polach-14329439))" target="_blank">🚧 My career as Sport professional (Worldathletics)</a>
 
 
 I am excited to share my projects and collaborate with others on GitHub.
